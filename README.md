@@ -14,15 +14,15 @@ I help professionals land better jobs through resume writing, LinkedIn optimizat
 
 ## Current Projects
 
-🚀 RishiWrites.com
+* RishiWrites.com
 
-🚀 SoloDesk CRM
+* SoloDesk CRM
 
-🚀 Resume Analyzer AI
+* Resume Analyzer AI
 
-🚀 Recruitment Automation Toolkit
+* Recruitment Automation Toolkit
 
-🚀 Job Search Tracker
+* Job Search Tracker
 
 ## Skills
 
