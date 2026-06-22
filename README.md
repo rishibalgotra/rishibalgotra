@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Rishi Balgotra 👋
 
-<!--
-**rishibalgotra/rishibalgotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Recruitment | Career Coach | Founder of RishiWrites
 
-Here are some ideas to get you started:
+I help professionals land better jobs through resume writing, LinkedIn optimization, interview coaching and AI-powered career solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* 18+ years of experience in recruitment and talent acquisition
+* Founder of RishiWrites
+* Technical Recruitment Delivery Manager
+* Passionate about AI, automation and career technology
+* Helping professionals accelerate their careers and businesses grow through talent solutions
+
+## Current Projects
+
+🚀 RishiWrites.com
+
+🚀 SoloDesk CRM
+
+🚀 Resume Analyzer AI
+
+🚀 Recruitment Automation Toolkit
+
+🚀 Job Search Tracker
+
+## Skills
+
+Recruitment • Resume Writing • LinkedIn Optimization • Career Coaching • AI Automation • Digital Marketing • WordPress • SEO • Talent Acquisition
+
+## Connect With Me
+
+🌐 https://rishiwrites.com
+
+💼 https://www.linkedin.com/in/rishi-balgotra-career-expert/
+
+📧 [rb@rishiwrites.com](mailto:rb@rishiwrites.com)
+
+---
+
+Helping professionals and businesses grow through talent, technology and innovation.
